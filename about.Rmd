@@ -10,5 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r pressure, echo=FALSE}
-plot(pressure)
+data(mtcars)
+rpivotTable::rpivotTable(mtcars,rows="gear", cols=c("cyl","carb"),width="100%", height="400px")
 ```
