@@ -8,6 +8,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-style: cosmo
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
 ---
   
