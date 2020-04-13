@@ -8,6 +8,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
   
-#Motto  
+# Motto  
 
 We love our **Maths Department** 

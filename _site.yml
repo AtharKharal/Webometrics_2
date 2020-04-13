@@ -9,7 +9,7 @@ navbar:
     - text: "Math-211"
       href: Math-211.html
     - text: "Timetables"
-      href: about.html
+      href: Timetables.html
 output:
   html_document:
     theme: cosmo
