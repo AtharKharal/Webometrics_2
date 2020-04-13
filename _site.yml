@@ -6,7 +6,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Math-211"
+      href: Math-211.html
+    - text: "Timetables"
       href: about.html
 output:
   html_document:

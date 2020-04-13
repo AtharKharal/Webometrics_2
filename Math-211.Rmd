@@ -1,0 +1,19 @@
+---
+title: "Math-211"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Course Outline  
+
+This is an advanced course with 4(3-0-0-1) credit hours. This webite erves as the main page for the BS Maths 2020(II) class. It will present following content:  
+
+1. Course Contents (official copy)  
+2. Exam Solutions  
+3. Exam results  
+4. Assignments  
+5. Any other announcements  
+
